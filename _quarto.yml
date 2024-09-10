@@ -1,0 +1,14 @@
+project:
+  type: website
+  render:
+    - "**/*.md"
+website:
+  title: "Onesmus Kabui"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+  pdf: default
+
+
+
