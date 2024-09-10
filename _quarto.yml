@@ -9,6 +9,8 @@ format:
     theme: cosmo
     css: styles.css
   pdf: default
+resources:
+  - CNAME
 
 
 
