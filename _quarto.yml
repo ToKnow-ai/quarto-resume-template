@@ -4,9 +4,20 @@ project:
     - "**/*.md"
 website:
   title: "Onesmus Wachira Kabui - Resume"
+  site-url: https://onesmus.com
+  description: "Onesmus Wachira Kabui - Resume"
+  page-footer:
+    border: true
+    background: dark
+    center: 
+      - text: "<b>Download PDF</b>"
+        href: /index.pdf
+format-links: false
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
   pdf: default
 resources:
