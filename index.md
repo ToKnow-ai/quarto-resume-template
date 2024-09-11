@@ -1,48 +1,35 @@
 # Onesmus Wachira Kabui
 Statistical Analyst 
 | [wachirakabui1@gmail.com](mailto:wachirakabui1@gmail.com) 
-| [ask@onesmus.com](mailto:ask@onesmus.com) 
-| [+254 714 049 485](tel:+254 714 049 485) 
-| [linkedin.com/in/onesmuskabui](https://www.linkedin.com/in/onesmuskabui/) 
-| [onesmus.com](https://onesmus.com/)
+| [+254 714 049 485](tel:+254714049485) 
+| [onesmus.com](https://onesmus.com/) 
+| [linkedin.com/in/onesmuskabui](https://www.linkedin.com/in/onesmuskabui/)
 
 ## Professional Summary
-Results-driven recent graduate with a strong background in statistical analysis, data management, and customer service. Proficient in leveraging data analytics to drive business decisions and enhance customer experiences. Demonstrates expertise in R, SQL, and STATA, with a proven track record of applying statistical methods to solve real-world problems. Adaptable team player with excellent communication skills and a passion for continuous learning.
+Results-driven recent graduate with expertise in statistical analysis, data management, and customer service. Proficient in R, SQL, and STATA, with a proven track record of applying data analytics to drive business decisions and enhance customer experiences.
 
 ## Work Experience
 
-#### Customer Service Data Analyst, WoodMasters Furniture and Stan Interior
+### Customer Service Data Analyst, WoodMasters Furniture and Stan Interior
 *September 2024 - Present*
 
- - Apply data-driven insights to optimize customer service strategies and boost sales performance
- - Analyze customer interaction data to identify trends and areas for improvement
- - Collaborate with sales teams to implement data-informed approaches, enhancing customer satisfaction and revenue
+- Apply data-driven insights to optimize customer service strategies and boost sales performance
+- Analyze customer interaction data to identify trends and implement improvements
+- Collaborate with sales teams to enhance customer satisfaction and revenue
 
-**_Skills utilized:_** Data Analytics, Customer Service, Communication, Statistical Analysis
-
-#### Construction Worker, China Wu Yi Road Project
+### Construction Worker, China Wu Yi Road Project
 *January 2024 - May 2024*
 
- - Contributed to road construction projects during academic breaks, gaining practical experience in a team-oriented environment
- - Developed strong work ethic, time management, and adaptability skills in a physically demanding role
- - Collaborated effectively with diverse teams to meet project deadlines and quality standards
+- Contributed to road construction projects, developing strong work ethic and time management skills
+- Collaborated effectively with diverse teams to meet project deadlines and quality standards
 
-**_Skills utilized:_** Teamwork, Communication, Time Management, Physical Labor
+### Assistant Analyst, Ndima Tea Factory
+*Multiple internships: Oct 2020 - Dec 2020, Oct 2022 - Dec 2022, Mar 2023 - May 2023*
 
-#### Assistant Analyst, Ndima Tea Factory
-*October 2020 - December 2020*
-*October 2022 - December 2022*
-*March 2023 - May 2023*
-
- - Conducted field data collection on tea production and farming practices, ensuring quality assurance standards were met
- - Managed comprehensive data entry for factory operations, including production line metrics, weather data (rainfall), green tea received, and black tea packaged
- - Monitored and recorded machine readings throughout the manufacturing process, contributing to efficiency analysis
- - Gained hands-on experience with ChaiPro, an SQL-based system, and observed the transition to SAP ERP, developing a foundational understanding of enterprise software systems
- - Assisted in basic bookkeeping tasks, further developing attention to detail and accuracy in data management
- - Analyzed collected data to identify trends in production efficiency and quality, presenting insights to supervisors
- - Collaborated with various departments to ensure accurate and timely data collection, fostering interdepartmental communication skills
-
-**_Skills utilized:_** Data Collection, Data Entry, Quality Assurance, SQL Basics, ERP Systems Familiarity, Statistical Analysis, Reporting
+- Conducted field data collection on tea production, ensuring quality assurance standards
+- Managed data entry for factory operations using ChaiPro (SQL-based) and observed SAP ERP transition
+- Analyzed production efficiency and quality trends, presenting insights to supervisors
+- Collaborated across departments to ensure accurate and timely data collection
 
 ## Education
 **Bachelor of Science in Applied Statistics with Computing**
@@ -51,15 +38,11 @@ Moi University, Graduating Class of 2024
 **STATA Analytical Program**
 Moi University, Completed 2019 (Distinction)
 
-**Kakamega High School**
-Mean Grade: B Plain
-
 ## Skills
 - Statistical Software: R, STATA, SQL
 - Data Analysis: Advanced statistical methods, predictive modeling, data visualization
 - Microsoft Office Suite: Excel (advanced), Word, PowerPoint
-- Strong verbal and written communication
-- Problem-solving and critical thinking
+- Strong communication, problem-solving, and critical thinking skills
 
 ## Certifications
 - STATA Analytical Program (Distinction)

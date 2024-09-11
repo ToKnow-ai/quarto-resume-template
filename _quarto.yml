@@ -13,6 +13,8 @@ website:
     center: 
       - text: "<b>Download PDF</b>"
         href: /index.pdf
+      - text: "ask@onesmus.com"
+        href: mailto:ask@onesmus.com
 format-links: false
 format:
   html:
