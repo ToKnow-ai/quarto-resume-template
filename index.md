@@ -1,5 +1,9 @@
 # Onesmus Wachira Kabui
-Statistical Analyst | [wachirakabui1@gmail.com](mailto:wachirakabui1@gmail.com) | [+254 714 049 485](tel:+254 714 049 485)
+Statistical Analyst 
+| [wachirakabui1@gmail.com](mailto:wachirakabui1@gmail.com), [ask@onesmus.com](mailto:ask@onesmus.com) 
+| [+254 714 049 485](tel:+254 714 049 485) 
+| [linkedin.com/in/onesmuskabui](https://www.linkedin.com/in/onesmuskabui/) 
+| [onesmus.com](https://onesmus.com/)
 
 ## Professional Summary
 Results-driven recent graduate with a strong background in statistical analysis, data management, and customer service. Proficient in leveraging data analytics to drive business decisions and enhance customer experiences. Demonstrates expertise in R, SQL, and STATA, with a proven track record of applying statistical methods to solve real-world problems. Adaptable team player with excellent communication skills and a passion for continuous learning.
@@ -18,11 +22,15 @@ Results-driven recent graduate with a strong background in statistical analysis,
 #### Assistant Analyst, Ndima Tea Factory
 *October 2020 - April 2021*
 
- - Conducted comprehensive analysis of sales records to identify patterns and forecast future trends
- - Developed predictive models incorporating weather data and other relevant factors to optimize production planning
- - Presented findings and recommendations to management, contributing to strategic decision-making
+ - Conducted field data collection on tea production and farming practices, ensuring quality assurance standards were met
+ - Managed comprehensive data entry for factory operations, including production line metrics, weather data (rainfall), green tea received, and black tea packaged
+ - Monitored and recorded machine readings throughout the manufacturing process, contributing to efficiency analysis
+ - Gained hands-on experience with ChaiPro, an SQL-based system, and observed the transition to SAP ERP, developing a foundational understanding of enterprise software systems
+ - Assisted in basic bookkeeping tasks, further developing attention to detail and accuracy in data management
+ - Analyzed collected data to identify trends in production efficiency and quality, presenting insights to supervisors
+ - Collaborated with various departments to ensure accurate and timely data collection, fostering interdepartmental communication skills
 
-**_Skills utilized:_** Statistical Analysis, Data Visualization, Forecasting, Reporting
+**_Skills utilized:_** Data Collection, Data Entry, Quality Assurance, SQL Basics, ERP Systems Familiarity, Statistical Analysis, Reporting
 
 #### Construction Worker, YYY Road Construction Company
 *October 2022 - April 2023*
