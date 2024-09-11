@@ -6,7 +6,7 @@ Results-driven recent graduate with a strong background in statistical analysis,
 
 ## Work Experience
 
-### Customer Service Data Analyst, XXX Furniture Company
+#### Customer Service Data Analyst, XXX Furniture Company
 *September 2024 - Present*
 
  - Apply data-driven insights to optimize customer service strategies and boost sales performance
