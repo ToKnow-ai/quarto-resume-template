@@ -5,12 +5,12 @@ Statistical Analyst
 | [onesmus.com](https://onesmus.com/) 
 | [linkedin.com/in/onesmuskabui](https://www.linkedin.com/in/onesmuskabui/)
 
-## Professional Summary
-Results-driven recent graduate with expertise in statistical analysis, data management, and customer service. Proficient in R, SQL, and STATA, with a proven track record of applying data analytics to drive business decisions and enhance customer experiences.
+## About me
+Results-driven recent graduate with expertise in statistical analysis, data management, and customer service. Proficient in R, SQL, and STATA, with a proven track record of applying data analytics to drive business decisions and enhance customer experiences. On my free time, I enjoy [cycling](https://www.strava.com/athletes/121419863).
 
 ## Work Experience
 
-### Customer Service Data Analyst, WoodMasters Furniture and Stan Interior
+### Customer Service Data Analyst, Stan Interior Designers
 *September 2024 - Present*
 
 - Apply data-driven insights to optimize customer service strategies and boost sales performance
