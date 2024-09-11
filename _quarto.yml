@@ -4,6 +4,7 @@ project:
     - "**/*.md"
 website:
   title: "Onesmus Wachira Kabui - Resume"
+  google-analytics: 'G-GH4C7E17TM'
   site-url: https://onesmus.com
   description: "Onesmus Wachira Kabui - Resume"
   page-footer:
