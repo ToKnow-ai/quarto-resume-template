@@ -1,6 +1,7 @@
 # Onesmus Wachira Kabui
 Statistical Analyst 
-| [wachirakabui1@gmail.com](mailto:wachirakabui1@gmail.com), [ask@onesmus.com](mailto:ask@onesmus.com) 
+| [wachirakabui1@gmail.com](mailto:wachirakabui1@gmail.com) 
+| [ask@onesmus.com](mailto:ask@onesmus.com) 
 | [+254 714 049 485](tel:+254 714 049 485) 
 | [linkedin.com/in/onesmuskabui](https://www.linkedin.com/in/onesmuskabui/) 
 | [onesmus.com](https://onesmus.com/)
@@ -10,7 +11,7 @@ Results-driven recent graduate with a strong background in statistical analysis,
 
 ## Work Experience
 
-#### Customer Service Data Analyst, XXX Furniture Company
+#### Customer Service Data Analyst, WoodMasters Furniture and Stan Interior
 *September 2024 - Present*
 
  - Apply data-driven insights to optimize customer service strategies and boost sales performance
@@ -19,8 +20,19 @@ Results-driven recent graduate with a strong background in statistical analysis,
 
 **_Skills utilized:_** Data Analytics, Customer Service, Communication, Statistical Analysis
 
+#### Construction Worker, China Wu Yi Road Project
+*January 2024 - May 2024*
+
+ - Contributed to road construction projects during academic breaks, gaining practical experience in a team-oriented environment
+ - Developed strong work ethic, time management, and adaptability skills in a physically demanding role
+ - Collaborated effectively with diverse teams to meet project deadlines and quality standards
+
+**_Skills utilized:_** Teamwork, Communication, Time Management, Physical Labor
+
 #### Assistant Analyst, Ndima Tea Factory
-*October 2020 - April 2021*
+*October 2020 - December 2020*
+*October 2022 - December 2022*
+*March 2023 - May 2023*
 
  - Conducted field data collection on tea production and farming practices, ensuring quality assurance standards were met
  - Managed comprehensive data entry for factory operations, including production line metrics, weather data (rainfall), green tea received, and black tea packaged
@@ -31,15 +43,6 @@ Results-driven recent graduate with a strong background in statistical analysis,
  - Collaborated with various departments to ensure accurate and timely data collection, fostering interdepartmental communication skills
 
 **_Skills utilized:_** Data Collection, Data Entry, Quality Assurance, SQL Basics, ERP Systems Familiarity, Statistical Analysis, Reporting
-
-#### Construction Worker, YYY Road Construction Company
-*October 2022 - April 2023*
-
- - Contributed to road construction projects during academic breaks, gaining practical experience in a team-oriented environment
- - Developed strong work ethic, time management, and adaptability skills in a physically demanding role
- - Collaborated effectively with diverse teams to meet project deadlines and quality standards
-
-**_Skills utilized:_** Teamwork, Communication, Time Management, Physical Labor
 
 ## Education
 **Bachelor of Science in Applied Statistics with Computing**
