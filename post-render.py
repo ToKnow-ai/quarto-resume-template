@@ -1,19 +1,21 @@
 import os
 
-def post_render():
-    # Delete index.md
-    if os.path.exists('index.md'):
-        os.remove('index.md')
-        print("Deleted index.md")
+def delete_func(file_name: str):
+    if os.path.exists(file_name):
+        os.remove(file_name)
+        print(f"Deleted {file_name}")
     else:
-        print("index.md not found")
+        print(f"{file_name} not found")
 
-    # Delete _variables.yml
-    if os.path.exists('_variables.yml'):
-        os.remove('_variables.yml')
-        print("Deleted _variables.yml")
-    else:
-        print("_variables.yml not found")
+def post_render():
+    # Delete index.qmd
+    delete_func('index.qmd')
+
+    # Delete _quarto-development.yml
+    delete_func('_quarto-development.yml')
+
+    # Delete CNAME
+    delete_func('CNAME')
 
 if __name__ == "__main__":
     post_render()

@@ -1,24 +1,22 @@
+profile:
+  default: development
 project:
   type: website
   render:
-    - "**/*.md"
+    - "**/*.qmd"
+    - "!**/*.md"
+    - CNAME
   pre-render:
   - ./pre-render.py
   post-render:
     - ./post-render.py
 website:
-  title: "{{< var title >}}"
-  google-analytics: "{{< var google-analytics >}}"
-  site-url: "{{< var custom-domain >}}"
-  description: "{{< var description >}}"
   page-footer:
     border: true
     background: dark
     center: 
       - text: "<b>Download PDF</b>"
         href: /index.pdf
-      - text: "{{< var secondary-email >}}"
-        href: "mailto:{{< var secondary-email >}}"
 format-links: false
 format:
   html:
