@@ -14,12 +14,33 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Reset gh-pages branch
+        run: |
+          #!/bin/bash
+
+          CURRENT_BRANCH=`git symbolic-ref --short HEAD`
+          TEMP_BRANCH="temp-branch-$(date +%s)"
+          ORIGIN_BRANCH='gh-pages'
+          echo "TEMP_BRANCH='$TEMP_BRANCH'"
+          git switch --orphan $TEMP_BRANCH
+          git show $CURRENT_BRANCH:CNAME > CNAME
+          git show $CURRENT_BRANCH:deployment-in-progress.html > index.html
+          git show $CURRENT_BRANCH:deployment-in-progress.html > 404.html
+          echo "Pages deployed on - $(date)" > README.md
+          git add CNAME index.html 404.html README.md
+          git commit -m "Pages deployed on - $(date)"
+          git push origin $TEMP_BRANCH:$ORIGIN_BRANCH --force
+          git checkout $CURRENT_BRANCH
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with: 
           tinytex: true 
+      
+      - name: Install Python packages
+        run: pip install -r requirements.txt
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2

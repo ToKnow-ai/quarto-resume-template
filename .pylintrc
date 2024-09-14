@@ -1,0 +1,3 @@
+[MESSAGES CONTROL]
+disable=relative-beyond-top-level
+disable=missing-function-docstring

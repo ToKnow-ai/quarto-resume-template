@@ -2,19 +2,23 @@ project:
   type: website
   render:
     - "**/*.md"
+  pre-render:
+  - ./pre-render.py
+  post-render:
+    - ./post-render.py
 website:
-  title: "Statistical Analyst | Onesmus Wachira Kabui"
-  google-analytics: 'G-GH4C7E17TM'
-  site-url: https://onesmus.com
-  description: "Onesmus Wachira Kabui - Resume"
+  title: "{{< var title >}}"
+  google-analytics: "{{< var google-analytics >}}"
+  site-url: "{{< var custom-domain >}}"
+  description: "{{< var description >}}"
   page-footer:
     border: true
     background: dark
     center: 
       - text: "<b>Download PDF</b>"
         href: /index.pdf
-      - text: "ask@onesmus.com"
-        href: mailto:ask@onesmus.com
+      - text: "{{< var secondary-email >}}"
+        href: "mailto:{{< var secondary-email >}}"
 format-links: false
 format:
   html:
