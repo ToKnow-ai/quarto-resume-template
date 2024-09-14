@@ -24,13 +24,7 @@ jobs:
           ORIGIN_BRANCH='gh-pages'
           echo "TEMP_BRANCH='$TEMP_BRANCH'"
           git switch --orphan $TEMP_BRANCH
-          if git ls-tree -r $CURRENT_BRANCH --name-only | grep -q "^CNAME$"; then
-            git show $CURRENT_BRANCH:CNAME > CNAME
-          elif git ls-tree -r $ORIGIN_BRANCH --name-only | grep -q "^CNAME$"; then
-            git show $ORIGIN_BRANCH:CNAME > CNAME
-          else
-            echo "CNAME file does not exist"
-          fi
+          git show $CURRENT_BRANCH:CNAME > CNAME || git show $ORIGIN_BRANCH:CNAME > CNAME || echo "CNAME file does not exist"
           git show $CURRENT_BRANCH:deployment-in-progress.html > index.html
           git show $CURRENT_BRANCH:deployment-in-progress.html > 404.html
           echo "Pages deployed on - $(date)" > README.md
