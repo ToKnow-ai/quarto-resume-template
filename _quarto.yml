@@ -3,7 +3,7 @@ project:
   render:
     - "**/*.md"
 website:
-  title: "Onesmus Wachira Kabui - Resume"
+  title: "Statistical Analyst | Onesmus Wachira Kabui"
   google-analytics: 'G-GH4C7E17TM'
   site-url: https://onesmus.com
   description: "Onesmus Wachira Kabui - Resume"
