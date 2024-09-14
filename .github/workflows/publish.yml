@@ -15,9 +15,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Reset gh-pages branch
-        description: Prevents gh-pages branch from exploding in size
         run: |
           #!/bin/bash
+          # Prevents gh-pages branch from exploding in size
 
           CURRENT_BRANCH=`git symbolic-ref --short HEAD`
           TEMP_BRANCH="temp-branch-$(date +%s)"
