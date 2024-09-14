@@ -24,6 +24,8 @@ jobs:
           ORIGIN_BRANCH='gh-pages'
           echo "TEMP_BRANCH='$TEMP_BRANCH'"
           git switch --orphan $TEMP_BRANCH
+          git config user.name 'Github Action' 
+          git config user.email 'ask@toknow.ai'
           git show $CURRENT_BRANCH:CNAME > CNAME || git show $ORIGIN_BRANCH:CNAME > CNAME || echo "CNAME file does not exist"
           git show $CURRENT_BRANCH:deployment-in-progress.html > index.html
           git show $CURRENT_BRANCH:deployment-in-progress.html > 404.html
