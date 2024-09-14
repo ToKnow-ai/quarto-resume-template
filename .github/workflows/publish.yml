@@ -15,6 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Reset gh-pages branch
+        description: Prevents gh-pages branch from exploding in size
         run: |
           #!/bin/bash
 
@@ -23,7 +24,13 @@ jobs:
           ORIGIN_BRANCH='gh-pages'
           echo "TEMP_BRANCH='$TEMP_BRANCH'"
           git switch --orphan $TEMP_BRANCH
-          git show $CURRENT_BRANCH:CNAME > CNAME
+          for branch in $(git branch -r | grep -v '\->'); do
+            if git ls-tree -r "$branch" --name-only | grep -q "^CNAME$"; then
+              echo "CNAME found in branch: $branch"
+              git show "$branch:CNAME" > CNAME
+              break
+            fi
+          done
           git show $CURRENT_BRANCH:deployment-in-progress.html > index.html
           git show $CURRENT_BRANCH:deployment-in-progress.html > 404.html
           echo "Pages deployed on - $(date)" > README.md
