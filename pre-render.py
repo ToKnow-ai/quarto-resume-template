@@ -39,7 +39,8 @@ def pre_render():
                 "html": {
                     "description": meta_data["description"]
                 }
-            }
+            },
+            "keywords": [meta_data["secondary-email"], meta_data["custom-domain"], "Quarto Resume"]
         }
         yaml.dump(development_profile, yaml_file, default_flow_style=False)
     print("Created _quarto-development.yml from RESUME.json")
