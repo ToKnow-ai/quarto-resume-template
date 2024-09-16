@@ -1,4 +1,3 @@
-import shutil
 import json
 import yaml
 from urllib.parse import urlparse
@@ -12,19 +11,15 @@ def clean_domain(url):
     return domain
 
 def pre_render():
-    # 1. Copy RESUME.md to index.qmd
-    shutil.copy('RESUME.md', 'index.qmd')
-    print("Created index.qmd from RESUME.md")
-
-    # 2. Convert RESUME.json to _variables.yml
-    with open('RESUME.json', 'r') as json_file:
+    # Convert RESUME.json to _variables.yml
+    with open('RESUME.json', 'r', encoding='utf-8') as json_file:
         meta_data = json.load(json_file)
     
-    with open('_quarto-development.yml', 'w') as yaml_file:
+    with open('_quarto-development.yml', 'w', encoding='utf-8') as yaml_file:
+        google_analytics = meta_data.get("google-analytics", None)
         development_profile = {
             "website": {
                 "title": meta_data["title"],
-                "google-analytics": meta_data["google-analytics"],
                 "site-url": meta_data["custom-domain"],
                 "page-footer": {
                     "center": [
@@ -33,16 +28,26 @@ def pre_render():
                             "href": f"mailto:{meta_data['secondary-email']}"
                         }
                     ]
-                }
+                },
             },
             "format": {
                 "html": {
                     "description": meta_data["description"]
                 }
             },
-            "keywords": [meta_data["secondary-email"], meta_data["custom-domain"], "Quarto Resume"]
+            "keywords": [meta_data["secondary-email"], meta_data["custom-domain"], "Quarto Resume"],
+            "format": {
+                "html": {
+                    "output-file": "index.html"
+                },
+                "pdf": {
+                    "output-file": "index.pdf"
+                }
+            }
         }
-        yaml.dump(development_profile, yaml_file, default_flow_style=False)
+        if google_analytics:
+            development_profile["website"]["google-analytics"] = google_analytics
+        yaml.dump(development_profile, yaml_file, default_flow_style=False, encoding='utf-8')
     print("Created _quarto-development.yml from RESUME.json")
 
     # 3. Check for custom-domain and create CNAME file if it exists

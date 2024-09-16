@@ -2,14 +2,12 @@ profile:
   default: development
 project:
   type: website
-  render:
-    - "**/*.qmd"
-    - "!**/*.md"
-    - CNAME
   pre-render:
-  - ./pre-render.py
+    - ./pre-render.py
   post-render:
     - ./post-render.py
+  render:
+    - "RESUME.md"
 website:
   page-footer:
     border: true
