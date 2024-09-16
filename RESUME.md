@@ -1,9 +1,6 @@
 # Kabui Charles  
-Code - Data - People | Full-Stack Software Engineer and Architect | Data Science Enthusiast | Founder of [**Oark Library**](https://oarklibrary.com/)  
-**Email:**	[mckabue@gmail.com](mailto:mckabue@gmail.com) , [me@mckabue.com](mailto:me@mckabue.com)  
-**Mobile:** 	\+254 707 115 007  
-**LinkedIn:**	[https://www.linkedin.com/in/mckabue/](https://www.linkedin.com/in/mckabue/)   
----
+<u>Code - Data - People</u> | Software Engineering | Data Science | [ToKnow.ai](https://toknow.ai/) | [Oark Library](https://oarklibrary.com/) | [mckabue.com](https://mckabue.com/)
+<br/>[(+254) 707 115 007](tel:+254707115007) | [mckabue@gmail.com](mailto:mckabue@gmail.com) | [linkedin.com/in/mckabue/](https://www.linkedin.com/in/mckabue/)
 
 ## About me  
 I'm an experienced full-stack software engineer and architect, currently working at Microsoft. With a background in Android development and senior frontend engineering roles in taxi-hailing startups, I've gained valuable insights into good software development practices, meeting timelines, and accurate cost and time estimation. My focus is on software speed, security, and scalability, and I've applied these principles to my work as a lead software developer in a startup and as the founder of Oark Library \- a digital store for educational and academic resources. As a lifelong learner and passionate about data science, I am constantly seeking to expand my knowledge and skills. I believe that this mindset helps me bring a fresh perspective to software development and aspire to become a thought leader in the field.  
