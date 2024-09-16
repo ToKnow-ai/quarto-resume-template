@@ -8,9 +8,6 @@ def delete_func(file_name: str):
         print(f"{file_name} not found")
 
 def post_render():
-    # Delete index.qmd
-    delete_func('index.qmd')
-
     # Delete _quarto-development.yml
     delete_func('_quarto-development.yml')
 
