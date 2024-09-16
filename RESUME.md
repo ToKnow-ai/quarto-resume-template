@@ -1,89 +1,85 @@
-# Kabui Charles  
-<u>Code - Data - People</u> | Software Engineering | Data Science | [ToKnow.ai](https://toknow.ai/) | [Oark Library](https://oarklibrary.com/) | [mckabue.com](https://mckabue.com/)
-<br/>[(+254) 707 115 007](tel:+254707115007) | [mckabue@gmail.com](mailto:mckabue@gmail.com) | [linkedin.com/in/mckabue/](https://www.linkedin.com/in/mckabue/)
+# Kabui [Charles]{.lighter-title}
+<u>Code - Data - People</u> | Software Engineering | Data Science | ML/AI | [ToKnow.ai](https://toknow.ai/) | [Oark Library](https://oarklibrary.com/) | [mckabue.com](https://mckabue.com/)<br/>
+[(+254) 707 115 007](tel:+254707115007) | [mckabue@gmail.com](mailto:mckabue@gmail.com) | [linkedin.com/in/mckabue/](https://www.linkedin.com/in/mckabue/)
 
-## About me  
-I'm an experienced full-stack software engineer and architect, currently working at Microsoft. With a background in Android development and senior frontend engineering roles in taxi-hailing startups, I've gained valuable insights into good software development practices, meeting timelines, and accurate cost and time estimation. My focus is on software speed, security, and scalability, and I've applied these principles to my work as a lead software developer in a startup and as the founder of Oark Library \- a digital store for educational and academic resources. As a lifelong learner and passionate about data science, I am constantly seeking to expand my knowledge and skills. I believe that this mindset helps me bring a fresh perspective to software development and aspire to become a thought leader in the field.  
----
+## [Pro]{.char-color}file
+Versatile full-stack software engineer with a good track record in android development, frontend engineering, backend development and startup leadership. Currently contributing to enterprise-level solutions at Microsoft. Expertise in developing scalable, secure, and high-performance software solutions. Founder of Oark Library, a thriving digital educational platform. Committed to continuous learning and innovation in software development, data science and machine learning.
 
-Work Experience   
-Software Engineer at Microsoft.   
-*April 2021 -  Present*  
-I help Microsoft to empower every person and every organization on the planet to achieve more.  
-I am part of a team that creates and maintains enterprise components and services that are then used by other teams.  
-***Skills:** ASP.NET MVC, C\#, JavaScript, ReactJS*
+## [Wor]{.char-color}k Experience
 
-Android Software Engineer at HAVA NET LIMITED.   
-*October 2020 -  April 2021*  
-I help Hava realize the full potential of ride-hailing in Kenya by creating a stable Android app for drivers and clients/riders. I am mostly focused on the Driver app. Sometimes I help speed up development with the Rider app and our server.
+::: {.d-flex .justify-content-between .flex-wrap}
+### [Ful]{.char-color}l-stack Software Engineer, [Microsoft](https://www.linkedin.com/company/microsoft/)
+*April 2021 - Present*
+:::
 
-* Stabilized the driver app by helping fix existing bugs.  
-* Enhanced location in the driver app to reduce undercalculations and overcalculations of trip costs.
+  - Develop and maintain enterprise components and services used across multiple teams
+  - Contribute to Microsoft's mission of empowering global organizations
 
-***Skills:** Android, Kotlin, JavaScript, ReactJS*
+***Technologies**: ASP.NET MVC, C#, JavaScript, ReactJS, KustoQL*
 
-Senior Frontend Developer at MARAMOJA TRANSPORT LTD.   
-*May 2018  -  November 2020*  
-At MARAMOJA, I worked on the very first ride-hailing app in Kenya.  
-Actively Worked on:
+::: {.d-flex .justify-content-between .flex-wrap}
+### [And]{.char-color}roid Software Engineer, [Hava Cab](https://www.linkedin.com/company/hava-cab/about/)
+*October 2020 - April 2021*
+:::
+- Spearheaded improvements to the driver app, resolving critical bugs and enhancing location accuracy
+- Optimized trip cost calculations, significantly reducing under and over-calculations
+- Supported development of the rider app and server-side components
 
-* Led the development of a corporate marker-checker for our client taxi apps, both android and web apps.  
-* Maintain our NodeJS services that power our taxi android apps.  
-* Maintain our ReactJS taxi web app.  
-* Maintain our Client and Driver Android taxi apps.
+***Technologies**: Android, Java, Kotlin, JavaScript, ReactJS*
 
-***Skills:** JavaScript*, *NodeJS, Android, ReactJS, MySQL, Software Design, Integration and Unit testing*
+::: {.d-flex .justify-content-between .flex-wrap}
+### [Ful]{.char-color}l-stack Software Engineer, [Maramoja Transport](https://www.linkedin.com/company/maramoja-transport-ltd/)
+*May 2018 - November 2020*
+:::
+  - Led development of a corporate marker-checker for client taxi apps (Android and web)
+  - Maintained NodeJS services powering taxi applications
+  - Oversaw maintenance of ReactJS taxi web app and Android client/driver apps
 
-Lead Software Developer at PAGE ONE SEO & ONLINE MARKETING LTD.   
-*March 2016  -  April 2018*  
-At PAGE ONE, I lead the development of a health portal to help patients find and book doctors easily.  
-Actively Worked on: 
+***Technologies**: JavaScript, ReactJS, NodeJS, Android, Java, MySQL*
 
-* Led the development of a health portal called Daktari.net \~ [https://daktari.net/](https://daktari.net/) (currently offline)  
-* Used Azure Webjobs and Azure Functions to create microservices.  
-* Integrated with MPESA API, Stripe and PayPal for payment.
+::: {.d-flex .justify-content-between .flex-wrap}
+### [Ful]{.char-color}l-stack Software Engineer, [Pageone](https://www.linkedin.com/company/page-one-seo-&-online-marketing-ltd-/)
+*March 2016 - April 2018*
+:::
+  - Led development of Daktari.net, a comprehensive health portal for patient-doctor connections
+  - Implemented microservices using Azure Webjobs and Azure Functions
+  - Integrated multiple payment gateways including MPESA API, Stripe, and PayPal
 
-***Skills:** ASP.NET MVC CORE, C\#, JavaScript, KnockoutJS, Software Design, Software Architecture and Integration Testing, Microservices*
+***Technologies**: ASP.NET MVC CORE, C#, JavaScript, KnockoutJS, Azure*
 
-Independent Consultant & Freelancer.   
-*January 2015  -  May 2016*  
-As a freelance software consultant, I worked on:   
-*C\#, Windows Presentation Framework (WPF), Windows Forms, JavaScript, WordPress*
+::: {.d-flex .justify-content-between .flex-wrap}
+### [Fre]{.char-color}elancer Software Engineer
+*January 2015 - May 2016*
+:::
+  - Developed custom software solutions for various clients, including an insurance report generator
+  - Created WordPress websites and web templates for businesses
 
-* Worked with an insurance company to create a Report Generator, to auto-generate reports when provided with data collected by field agents.  
-* Created WordPress websites for a distribution company.  
-* Created web templates and designs for sale and for some clients.
+***Technologies**: C#, WPF, Windows Forms, JavaScript, WordPress, PHP*
 
-Personal Projects  
-I have been involved in some profound personal projects that include:
+## [Key]{.char-color} Projects
 
-1. Oark Library ( [https://oarklibrary.com/](https://oarklibrary.com/) )  
-   I founded Oark Library and created both the backend and front end of the platform, resulting in a user-friendly and secure experience for our growing community of over 130,000 users.  
-   Our library service, which boasts over 250,000 resources, has become the go-to destination for students and professionals alike in Kenya. With 1,500 daily users, our platform provides access to a wide range of papers, files, books, documents, video, and audio resources, ensuring our users access the latest educational content.  
-   We take pride in the fact that our web application is also available on the Google Play Store, making it easily accessible to users across different devices. The Oark Library platform withstands over 50 hack attempts daily, allowing users to access the resources without any security concerns.  
-   As a leader, I am driven to improve and innovate continually, and I believe that Oark Library is just the beginning of what I can accomplish in the digital space.  
-   ***Skills:** Leadership, Software Engineering, Determination, Project management and Entrepreneurship*  
-     
-2. Open source projects  
-* Simplex Router
+### [ToK]{.char-color}now.ai
+Created a platform to publish data driven analysis and research around Artificial Intelligence, Data Science, Cyber Security, Money and other general ideas, [Website](https://toknow.ai/)
 
-  [https://github.com/McKabue/simplex-router](https://github.com/McKabue/simplex-router) 
+### [Oar]{.char-color}k Library (Founder)
+- Built and scaled a digital educational platform serving 130,000+ users with 250,000+ resources
+- Engineered robust security measures to protect against frequent hack attempts
+- Developed both web and mobile applications, available on Google Play Store
 
-  This is a simple platform and framework agonistic javascript router. It only parses the routes and you decide how you want to deal with the matched route. This router is used in Oark Library and is available for anyone to use.
+**Impact**: 1,500 daily active users; go-to resource for students and professionals in Kenya, [Website](http://oarklibrary.com/)
 
----
+### [Sim]{.char-color}plex Router
+Developed a platform-agnostic JavaScript router used in Oark Library, [GitHub Repository](https://github.com/McKabue/simplex-router)
 
-Skills  
-Below are the tools and technologies I am most proficient in:
+## [Tec]{.char-color}hnical Proficiencies
+- Languages: *JavaScript, C#, Python, Kotlin, Java*
+- Frontend: *HTML5, SASS, CSS3, ReactJS, VueJS*
+- Backend: *ASP.NET, NodeJS*
+- Databases: *MSSQL, MySQL, ElasticSearch, MongoDB, KustoQL*
+- Cloud: *Azure, AWS*
+- Mobile: *Android Development*
+- Architecture: *Monolithic, Serverless*
 
-| JavaScript C\# 8 Kotlin Python HTML5, SASS, CSS3 Databases \~ MSSQL & MySQL, ElasticSearch, Mongo ASP.NET | ReactJS VueJS NodeJS Serverless Architecture. Event Sourcing Architecture. Azure and AWS cloud services Android Development |
-| :---- | :---- |
-
----
-
-Education   
-Master’s in Data Science degree  
-*Strathmore University, Kenya*
-
-Bachelor of Science in Software Engineering  
-*Kisii University, Kenya*
+## [Edu]{.char-color}cation
+- Master's in Data Science, *Strathmore University, Kenya*
+- Bachelor of Science in Software Engineering, *Kisii University, Kenya*
