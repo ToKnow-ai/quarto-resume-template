@@ -26,8 +26,8 @@ jobs:
           git switch --orphan $TEMP_BRANCH
           git config user.name 'Github Action' 
           git config user.email 'ask@toknow.ai'
-          git show $CURRENT_BRANCH:CNAME > CNAME.tmp && mv CNAME.tmp CNAME || rm -f CNAME.tmp
-          git show $ORIGIN_BRANCH:CNAME > CNAME.tmp && mv CNAME.tmp CNAME || rm -f CNAME.tmp
+          git show $CURRENT_BRANCH:CNAME > CNAME.tmp && mv CNAME.tmp CNAME || rm -f CNAME.tmp || true
+          git show $ORIGIN_BRANCH:CNAME > CNAME.tmp && mv CNAME.tmp CNAME || rm -f CNAME.tmp || true
           git show $CURRENT_BRANCH:deployment-in-progress.html > index.html
           git show $CURRENT_BRANCH:deployment-in-progress.html > 404.html
           echo "Pages deployed on - $(date)" > README.md
