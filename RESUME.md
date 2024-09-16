@@ -1,5 +1,5 @@
 # Kabui Charles  
-Poet who writes for both Humans and Computers | Full-Stack Software Engineer and Architect | Data Science Enthusiast | Founder of [**Oark Library**](https://oarklibrary.com/)  
+Code - Data - People | Full-Stack Software Engineer and Architect | Data Science Enthusiast | Founder of [**Oark Library**](https://oarklibrary.com/)  
 **Email:**	[mckabue@gmail.com](mailto:mckabue@gmail.com) , [me@mckabue.com](mailto:me@mckabue.com)  
 **Mobile:** 	\+254 707 115 007  
 **LinkedIn:**	[https://www.linkedin.com/in/mckabue/](https://www.linkedin.com/in/mckabue/)   
