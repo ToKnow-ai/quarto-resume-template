@@ -25,9 +25,7 @@ def pre_render():
         description = clean_domain(meta_data.get('description', None))
         keywords = ', '.join([secondary_email, custom_domain, "Quarto Resume"])
         development_profile = {
-            "title": title,
             "website": {
-                "title": title,
                 "site-url": custom_domain,
                 "page-footer": {
                     "center": [
@@ -46,7 +44,8 @@ def pre_render():
             "format": {
                 "html": {
                     "output-file": "index.html",
-                    "header-includes": f'<meta name="{keywords}">',
+                    "header-includes": '\n'.join([f'<meta name="keywords" content="{keywords}">']),
+                    "pagetitle": title,
                 },
                 "pdf": {
                     "output-file": "index.pdf"
