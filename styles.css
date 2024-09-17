@@ -11,6 +11,12 @@ main {
     display: none;
 }
 
+@media print { 
+    .no-print, .no-print *, footer, footer *, header, header * {
+        display: none !important;
+    }
+}
+
 a { 
     text-decoration:none 
 }
