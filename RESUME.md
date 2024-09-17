@@ -1,62 +1,85 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+# Kabui [Charles]{.lighter-title .char-warning}
+[Code - Data - People]{.underline .gradient-underline} | Software Engineering | Data Science | ML/AI | [ToKnow.ai](https://toknow.ai/) | [Oark Library](https://oarklibrary.com/) | [mckabue.com](https://mckabue.com/)\
+[(+254) 707 115 007](tel:+254707115007) | [mckabue@gmail.com](mailto:mckabue@gmail.com) | [linkedin.com/in/mckabue/](https://www.linkedin.com/in/mckabue/)
 
-## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+## [Pro]{.char-color}file
+Versatile full-stack software engineer with a good track record in android development, frontend engineering, backend development, and startup leadership. Currently contributing to enterprise-level solutions at Microsoft. Expertise in developing scalable, secure, and high-performance software solutions. Founder of Oark Library, a thriving digital educational platform. Committed to continuous learning and innovation in software development, data science, and machine learning.
 
-## Work Experience
+## [Wor]{.char-color}k Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+::: {.d-flex .justify-content-between .flex-wrap}
+### [Ful]{.char-color}l-stack Software Engineer, [Microsoft](https://www.linkedin.com/company/microsoft/)
+*April 2021 - Present*
+:::
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+  - Develop and maintain enterprise components and services used across multiple teams
+  - Contribute to Microsoft's mission of empowering global organizations
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+***Technologies:** ASP.NET MVC, C#, JavaScript, ReactJS, KustoQL*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+::: {.d-flex .justify-content-between .flex-wrap}
+### [And]{.char-color}roid Software Engineer, [Hava Cab](https://www.linkedin.com/company/hava-cab/about/)
+*October 2020 - April 2021*
+:::
+- Spearheaded improvements to the driver app, resolving critical bugs and enhancing location accuracy
+- Optimized trip cost calculations, significantly reducing under and over-calculations
+- Supported development of the rider app and server-side components
 
-## Education
+***Technologies:** Android, Java, Kotlin, JavaScript, ReactJS*
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+::: {.d-flex .justify-content-between .flex-wrap}
+### [Ful]{.char-color}l-stack Software Engineer, [Maramoja Transport](https://www.linkedin.com/company/maramoja-transport-ltd/)
+*May 2018 - November 2020*
+:::
+  - Led development of a corporate marker-checker for client taxi apps (Android and web)
+  - Maintained NodeJS services powering taxi applications
+  - Oversaw maintenance of ReactJS taxi web app and Android client/driver apps
 
-## Skills
+***Technologies:** JavaScript, ReactJS, NodeJS, Android, Java, MySQL*
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
+::: {.d-flex .justify-content-between .flex-wrap}
+### [Ful]{.char-color}l-stack Software Engineer, [Pageone](https://www.linkedin.com/company/page-one-seo-&-online-marketing-ltd-/)
+*March 2016 - April 2018*
+:::
+  - Led development of [Daktari.net](https://web.archive.org/web/20190123091300/https://daktari.net/), a comprehensive health portal for patient-doctor connections
+  - Implemented microservices using Azure Webjobs and Azure Functions
+  - Integrated multiple payment gateways including MPESA API, Stripe, and PayPal
 
-## Certifications
+***Technologies:** ASP.NET MVC CORE, C#, JavaScript, KnockoutJS, Azure*
 
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
+::: {.d-flex .justify-content-between .flex-wrap}
+### [Fre]{.char-color}elancer Software Engineer
+*January 2015 - May 2016*
+:::
+  - Developed custom software solutions for various clients, including an insurance report generator
+  - Created WordPress websites and web templates for businesses
 
-## Projects
+***Technologies:** C#, WPF, Windows Forms, JavaScript, WordPress, PHP*
 
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
+## [Key]{.char-color} Projects
 
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
+### [ToK]{.char-color}now.ai
+Created a platform to publish data driven analysis and research around artificial intelligence, data science, cyber security, money and other general tech ideas, [Website](https://toknow.ai/)
 
-## Languages
+### [Oar]{.char-color}k Library (Founder)
+- Built and scaled a digital educational platform serving 130,000+ users with 250,000+ resources
+- Engineered robust security measures to protect against frequent hack attempts
+- Developed both web and mobile applications, available on Google Play Store
 
-- English: Fluent
-- Swahili: Native
+**Impact:** 1,500 daily active users; go-to resource for students and professionals in Kenya, [Website](http://oarklibrary.com/)
 
-## Interests
+### [Sim]{.char-color}plex Router
+Developed a platform-agnostic JavaScript router used in Oark Library, [GitHub](https://github.com/McKabue/simplex-router)
 
-- Hiking
-- Technology
-- Photography
+## [Tec]{.char-color}hnical Proficiencies
+- Languages: *JavaScript, C#, Python, Kotlin, Java*
+- Frontend: *HTML5, SASS, CSS3, ReactJS, VueJS*
+- Backend: *ASP.NET MVC, NodeJS, Flask*
+- Databases: *MSSQL, MySQL, ElasticSearch, MongoDB, KustoQL*
+- Cloud: *Azure, AWS*
+- Mobile: *Android Development*
+- Architecture: *Monolithic, Serverless*
+
+## [Edu]{.char-color}cation
+- Master of Science in Data Science and Analytics, *Strathmore University, Kenya*
+- Bachelor of Science in Software Engineering, *Kisii University, Kenya*
