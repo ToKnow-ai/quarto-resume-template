@@ -9,6 +9,7 @@ project:
   render:
     - "RESUME.md"
 website:
+  favicon: "cycle.jpg"
   page-footer:
     border: true
     background: dark
