@@ -2,6 +2,8 @@ import json
 import yaml
 from urllib.parse import urlparse
 
+DEFAULT_TEXT_VAR = "Quarto Resume"
+
 def clean_domain(url):
     if not url:
         return None
@@ -21,9 +23,9 @@ def pre_render():
         google_analytics = meta_data.get("google-analytics", None)
         title = meta_data.get("title", "Resume")
         custom_domain = clean_domain(meta_data.get('custom-domain', None))
-        secondary_email = clean_domain(meta_data.get('secondary-email', None))
-        description = clean_domain(meta_data.get('description', None))
-        keywords = ', '.join([secondary_email, custom_domain, "Quarto Resume"])
+        secondary_email = meta_data.get('secondary-email', None)
+        description = meta_data.get('description', DEFAULT_TEXT_VAR)
+        keywords = ', '.join([secondary_email, custom_domain, DEFAULT_TEXT_VAR])
         development_profile = {
             "website": {
                 "site-url": custom_domain,
