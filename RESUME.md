@@ -48,7 +48,7 @@ Versatile full-stack software engineer with a good track record in android devel
 ***Technologies:** ASP.NET MVC CORE, C#, JavaScript, KnockoutJS, Azure*
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-### [Fre]{.char-color}elancer Software Engineer
+### [Fre]{.char-color}elance Software Engineer
 *January 2015 - May 2016*
 :::
   - Developed custom software solutions for various clients, including an insurance report generator
