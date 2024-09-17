@@ -23,11 +23,12 @@ format:
       dark: darkly
     css: styles.css
   pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 10pt
     latex-auto-install: true
     include-in-header: 
-      - "pdf.preamble.tex"
-    include-before-body:
-      - "pdf.pagestyle.tex"
+      - "pdf.KOMA.tex"
 resources:
   - CNAME
 

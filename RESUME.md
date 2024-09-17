@@ -1,5 +1,5 @@
 # Kabui [Charles]{.lighter-title}
-[Code - Data - People]{.underline} | Software Engineering | Data Science | ML/AI | [ToKnow.ai](https://toknow.ai/) | [Oark Library](https://oarklibrary.com/) | [mckabue.com](https://mckabue.com/)<br/>
+[Code - Data - People]{.underline} | Software Engineering | Data Science | ML/AI | [ToKnow.ai](https://toknow.ai/) | [Oark Library](https://oarklibrary.com/) | [mckabue.com](https://mckabue.com/)\
 [(+254) 707 115 007](tel:+254707115007) | [mckabue@gmail.com](mailto:mckabue@gmail.com) | [linkedin.com/in/mckabue/](https://www.linkedin.com/in/mckabue/)
 
 ## [Pro]{.char-color}file
