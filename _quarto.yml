@@ -22,7 +22,12 @@ format:
       light: cosmo
       dark: darkly
     css: styles.css
-  pdf: default
+  pdf:
+    latex-auto-install: true
+    include-in-header: 
+      - "pdf.preamble.tex"
+    include-before-body:
+      - "pdf.pagestyle.tex"
 resources:
   - CNAME
 
