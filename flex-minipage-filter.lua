@@ -5,16 +5,16 @@ local function flex_minipage_filter(doc)
         ---@param block pandoc.Block
         ---@return pandoc.Block
         Block = function(block)
-            if block.attr and block.attr.classes and block.attr.classes:includes("d-flex") then
-                block.content:insert(1, pandoc.RawInline('latex', "\\borderBox {"))
-                block.content:insert(2, pandoc.RawInline('latex', "\\begingroup"))
-                block.content:insert(3, pandoc.RawInline('latex', "\\let\\par\\relax"))
-                block.content:insert(4, pandoc.RawInline('latex', "\\begin{minipage}[t]{0.6\\textwidth}"))
+            if quarto.doc.is_format("pdf") and block.attr and block.attr.classes and block.attr.classes:includes("d-flex") then
+                block.content:insert(1, pandoc.RawBlock('latex', "\\borderBox {"))
+                block.content:insert(2, pandoc.RawBlock('latex', "\\begingroup"))
+                block.content:insert(3, pandoc.RawBlock('latex', "\\let\\par\\relax"))
+                block.content:insert(4, pandoc.RawBlock('latex', "\\begin{minipage}[t]{0.6\\textwidth}"))
                 -- The first block
-                block.content:insert(6, pandoc.RawInline('latex', "\\end{minipage}"))
-                block.content:insert(7, pandoc.RawInline('latex', "\\hfill"))
-                block.content:insert(pandoc.RawInline('latex', "\\endgroup"))
-                block.content:insert(pandoc.RawInline('latex', "}"))
+                block.content:insert(6, pandoc.RawBlock('latex', "\\end{minipage}"))
+                block.content:insert(7, pandoc.RawBlock('latex', "\\hfill"))
+                block.content:insert(pandoc.RawBlock('latex', "\\endgroup"))
+                block.content:insert(pandoc.RawBlock('latex', "}"))
 
                 quarto.log.debug('block', block)
             end
