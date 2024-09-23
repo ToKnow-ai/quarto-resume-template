@@ -7,3 +7,5 @@ site_libs/
 RESUME.aux
 RESUME.log
 RESUME.tex
+
+/.luarc.json

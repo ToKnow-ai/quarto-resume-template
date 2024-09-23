@@ -58,18 +58,26 @@ Versatile full-stack software engineer with a good track record in android devel
 
 ## [Key]{.char-color} Projects
 
+::: {.d-flex}
 ### [ToK]{.char-color}now.ai
+:::
 Created a platform to publish data driven analysis and research around artificial intelligence, data science, cyber security, money and other general tech ideas, [Website](https://toknow.ai/)
 
+::: {.d-flex}
 ### [Oar]{.char-color}k Library (Founder)
+:::
 - Built and scaled a digital educational platform serving 130,000+ users with 250,000+ resources
 - Engineered robust security measures to protect against frequent hack attempts
 - Developed both web and mobile applications, available on Google Play Store
 
 **Impact:** 1,500 daily active users; go-to resource for students and professionals in Kenya, [Website](http://oarklibrary.com/)
 
+::: {.d-flex}
 ### [Sim]{.char-color}plex Router
+:::
 Developed a platform-agnostic JavaScript router used in Oark Library, [GitHub](https://github.com/McKabue/simplex-router)
+
+\newpage
 
 ## [Tec]{.char-color}hnical Proficiencies
 - Languages: *JavaScript, C#, Python, Kotlin, Java*

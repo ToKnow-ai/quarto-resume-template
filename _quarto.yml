@@ -32,6 +32,8 @@ format:
       - "pdf.KOMA.tex"
 resources:
   - CNAME
+filters:
+  - flex-minipage-filter.lua
 
 
 
