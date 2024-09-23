@@ -15,8 +15,6 @@ local function flex_minipage_filter(doc)
                 block.content:insert(7, pandoc.RawBlock('latex', "\\hfill"))
                 block.content:insert(pandoc.RawBlock('latex', "\\endgroup"))
                 block.content:insert(pandoc.RawBlock('latex', "}"))
-
-                quarto.log.debug('block', block)
             end
             return block
         end
