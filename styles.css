@@ -12,9 +12,9 @@ main {
 }
 
 @media print { 
-    .no-print, .no-print *, footer, footer *, header, header * {
-        display: none !important;
-    }
+  .no-print, .no-print *, footer, footer *, header, header *, .top-right {
+      display: none !important;
+  }
 }
 
 /* OTHER STYLES */
