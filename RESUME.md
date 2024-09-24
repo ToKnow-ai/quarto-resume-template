@@ -9,7 +9,7 @@ Versatile full-stack software engineer with a good track record in android devel
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Ful]{.char-color}l-stack Software Engineer, [Microsoft](https://www.linkedin.com/company/microsoft/)
-*April 2021 - Present*
+*Apr 2021 - Present*
 :::
 
   - Develop and maintain enterprise components and services used across multiple teams
@@ -19,7 +19,7 @@ Versatile full-stack software engineer with a good track record in android devel
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [And]{.char-color}roid Software Engineer, [Hava Cab](https://www.linkedin.com/company/hava-cab/about/)
-*October 2020 - April 2021*
+*Oct 2020 - Apr 2021*
 :::
 - Spearheaded improvements to the driver app, resolving critical bugs and enhancing location accuracy
 - Optimized trip cost calculations, significantly reducing under and over-calculations
@@ -29,7 +29,7 @@ Versatile full-stack software engineer with a good track record in android devel
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Ful]{.char-color}l-stack Software Engineer, [Maramoja Transport](https://www.linkedin.com/company/maramoja-transport-ltd/)
-*May 2018 - November 2020*
+*May 2018 - Nov 2020*
 :::
   - Led development of a corporate marker-checker for client taxi apps (Android and web)
   - Maintained NodeJS services powering taxi applications
@@ -39,7 +39,7 @@ Versatile full-stack software engineer with a good track record in android devel
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Ful]{.char-color}l-stack Software Engineer, [Pageone](https://www.linkedin.com/company/page-one-seo-&-online-marketing-ltd-/)
-*March 2016 - April 2018*
+*Mar 2016 - Apr 2018*
 :::
   - Led development of [Daktari.net](https://web.archive.org/web/20190123091300/https://daktari.net/), a comprehensive health portal for patient-doctor connections
   - Implemented microservices using Azure Webjobs and Azure Functions
@@ -49,7 +49,7 @@ Versatile full-stack software engineer with a good track record in android devel
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Fre]{.char-color}elance Software Engineer
-*January 2015 - May 2016*
+*Jan 2015 - May 2016*
 :::
   - Developed custom software solutions for various clients, including an insurance report generator
   - Created WordPress websites and web templates for businesses
