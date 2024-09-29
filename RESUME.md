@@ -60,13 +60,13 @@ Versatile full-stack software engineer with a good track record in android devel
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [ToK]{.char-color}now.ai
-*May 2024 - Present*
+*May 2024*
 :::
 Created a platform to publish data driven analysis and research around artificial intelligence, data science, cyber security, money and other general tech ideas, [Website](https://toknow.ai/)
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Oar]{.char-color}k Library (Founder)
-*Jan 2018 - Present*
+*Jan 2018*
 :::
 - Built and scaled a digital educational platform serving 130,000+ users with 250,000+ resources
 - Engineered robust security measures to protect against frequent hack attempts
@@ -76,7 +76,7 @@ Created a platform to publish data driven analysis and research around artificia
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Sim]{.char-color}plex Router
-*Jan 2018 - Present*
+*Jan 2018*
 :::
 Developed a platform-agnostic JavaScript router used in Oark Library, [GitHub](https://github.com/McKabue/simplex-router)
 
