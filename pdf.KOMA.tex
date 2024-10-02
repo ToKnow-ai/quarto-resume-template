@@ -1,0 +1,53 @@
+% Load necessary packages
+\usepackage{scrlayer-scrpage}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+% Set page geometry
+\usepackage[
+  top=0.5in,
+  bottom=0.5in,
+  left=0.5in,
+  right=0.5in,
+  footskip=0pt, % Eliminates the space reserved for the footer
+  nofoot % Ensures that no footer is placed at the bottom of the page.
+]{geometry}
+\pagenumbering{gobble}  % This disables page numbering
+
+% Adjust line spacing
+\usepackage{setspace}
+\setstretch{0.95}
+
+% Configure headers and footers
+\clearpairofpagestyles
+\cfoot[\pagemark]{\pagemark}
+
+% Create compact lists
+\setlist{noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt}
+
+% Adjust vertical space before and after sections
+\usepackage{titlesec}
+\titlespacing*{\section}{0pt}{0pt}{0.3\baselineskip}
+\titlespacing*{\subsection}{0pt}{0.4\baselineskip}{0.2\baselineskip}
+\titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+
+\definecolor{backgroundColor}{HTML}{edeceb}
+
+\usepackage{tcolorbox}
+\newcommand{\borderBox}[1]{%
+  \begin{tcolorbox}[
+    colback=backgroundColor,
+    boxrule=0pt,
+    arc=0pt,
+    left=0pt,
+    right=0pt,
+    top=2pt,
+    bottom=2pt,
+    boxsep=0pt,
+    width=\textwidth
+  ]
+    #1
+  \end{tcolorbox}%
+}
